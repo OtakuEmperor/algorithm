@@ -6,3 +6,4 @@ def find_missing_number(nums):
         missing ^= i + 1
 
     return missing
+//not edit
